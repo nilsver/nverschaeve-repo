@@ -1,6 +1,6 @@
-[manegron-devel]
-name=manegron repository devel
-baseurl=http://rbrepo.redborder.lan/manegron/
+[nverschaeve-devel]
+name=nverschaeve repository devel
+baseurl=http://rbrepo.redborder.lan/nverschaeve/
 gpgcheck=0
 enabled=1
 sslcheck=0
